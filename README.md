@@ -1,3 +1,11 @@
+# Este projeto foi foi criado incialmente com o Boostrap. Após a definição do "esqueleto" pronto foi realizada a migração para o REACT. 
+# Alem da biblioteca do React, foram instaladas bibliotecas para o funcionamento do AXIOS, LOTTIEFILES
+
+#Instalação das Bibliotecas
+ - npm i react-lottie
+ - npm install axios
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
