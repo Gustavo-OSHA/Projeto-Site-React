@@ -1,5 +1,5 @@
 
-Este projeto foi foi criado incialmente com o Boostrap. Após a definição do "esqueleto" pronto foi realizada a migração para o REACT. 
+Este projeto foi foi criado incialmente com o Boostrap depois realizada a migração para o REACT. 
 
 Alem da biblioteca do React, foram instaladas bibliotecas para o funcionamento do AXIOS, LOTTIEFILES
 
