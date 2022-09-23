@@ -1,0 +1,16 @@
+{
+    "categoria": [
+        {
+            "id":1,
+            "name":"Email"
+        },
+        {
+            "id":2,
+            "telefone":"Telefone"
+        },
+        {
+            "id":3,
+            "mensagem":"Mensagem"
+        }
+    ]
+}
