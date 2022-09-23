@@ -3,7 +3,7 @@ Este projeto foi foi criado incialmente com o Boostrap depois realizada a migra�
 
 Alem da biblioteca do React, foram instaladas bibliotecas para o funcionamento do AXIOS, LOTTIEFILES
 
-#Instalação das Bibliotecas
+# Instalação das Bibliotecas
  - npm i react-lottie
  - npm install axios
 
